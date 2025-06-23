@@ -5,7 +5,3 @@ Este proyecto es una aplicación web de tipo blog hecha con Django. Permite crea
 
 ## Cómo ejecutar el proyecto
 
-1. Cloná el repositorio:
-   ```bash
-   git clone https://github.com/JulianDiaz24/MiPagina1.git
-   cd MiPagina1
